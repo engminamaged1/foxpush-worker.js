@@ -1,0 +1,1 @@
+# foxpush-worker.js
